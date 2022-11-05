@@ -1,7 +1,7 @@
 # Data appendix
 Description of files from /AnalysisData
 
-# precipitation.csv
+## precipitation.csv
 This file contains information of all prcp written data from weather station 
 at 2010 year.
 
@@ -10,8 +10,8 @@ Variables:
 - date - measurment data
 - prcp - maximum precipitation
 
-# temperature.csv
-This file contains information of all prcp written data from weather station 
+## temperature.csv
+This file contains information of all temperature written data from weather station 
 at 2010 year.
 
 Variables:
