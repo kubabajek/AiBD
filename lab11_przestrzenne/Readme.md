@@ -7,7 +7,7 @@ Jest **19091** wpisów.
 **2102**
 
 3. Jaka jest populacja miasta Nowy Jork?<br />
-**8 175 032 **
+**8 175 032**
 
 4. Jaka jest populacja Bronxu, Manhattanu i Queens?<br />
 Bronx: **1 385 108** <br />
